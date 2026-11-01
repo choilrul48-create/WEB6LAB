@@ -17,6 +17,7 @@ MEMPERSIAPAKAN HTML
 
 
 A.	LANGKAH PRATIKUM
+
 Latihan 1 — Mengubah teks dengan DOM
 
  

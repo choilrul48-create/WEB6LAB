@@ -5,10 +5,10 @@ javacsript
 
 MEMPERSIAPAKAN HTML
 
-![Tampilan Halaman Web](New%20folder%20(2)/1.jpg)
+![Tampilan Halaman Web](New%20folder%20(2)/1.jpg)![Tampilan Halaman Web](New%20folder%20(2)/1a.jpg)
 
 
-![Tampilan Halaman Web](New%20folder%20(2)/1a.jpg)
+
 
 
 

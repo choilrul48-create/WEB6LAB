@@ -5,7 +5,7 @@ javacsript
 
 MEMPERSIAPAKAN HTML
 
-![Tampilan Halaman Web](New forder/1.jpg)
+![Tampilan Halaman Web](New forder(2)/1.jpg)
 
 
 

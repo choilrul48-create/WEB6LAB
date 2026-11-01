@@ -5,7 +5,8 @@ javacsript
 
 MEMPERSIAPAKAN HTML
 
-![Tampilan Halaman Web](New folder (2)/1.jpg)
+![Tampilan Halaman Web](New%20folder%20(2)/1.jpg)
+
 
 
 

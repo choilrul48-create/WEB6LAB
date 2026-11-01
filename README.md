@@ -1,7 +1,7 @@
 # WEB6LAB
 javacsript
 
-
+https://choilrul48-create.github.io/WEB6LAB/
 
 MEMPERSIAPAKAN HTML
 
